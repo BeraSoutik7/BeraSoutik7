@@ -31,8 +31,7 @@
  
   <br/><br/>
 
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeraSoutik7&theme=react-dark" alt="Contribution Activity Graph" />
+
 
 </div>
 
