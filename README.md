@@ -44,7 +44,7 @@
   <br />
   <p align="center">
     <a href="[https://learn.microsoft.com/api/credentials/share/en-gb/SoutikBera-6523/66F06CC406BC03A8?sharingId=5C20CBF952936C3F]" target="_blank">
-      <img src="./assets/ms-700-certificate.png" alt="MS-700 Certificate" width="650" />
+      <img src="./Credentials - SoutikBera-6523 _ Microsoft Learn (1)_1.jpg" alt="MS-700 Certificate" width="650" />
     </a>
     <br />
     <a href="https://learn.microsoft.com/en-us/users/YOUR-USERNAME/credentials/YOUR-CREDENTIAL-ID">Verify Credential Online ↗</a>
