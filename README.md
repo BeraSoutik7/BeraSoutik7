@@ -20,8 +20,32 @@
 - 💬 Ask me about **M365 administration**, **Teams telephony**, or **PowerShell automation**.
 
 ---
+<div align="center">
 
-### 📬 Connect With Me
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=BeraSoutik7&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 
-- linkedin.com/in/soutik-bera-320867213
+  <br/><br/>
 
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=BeraSoutik7&theme=onedark&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+
+  <br/><br/>
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeraSoutik7&theme=react-dark" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/soutik-bera-320867213" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/YOUR-TWITTER-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
