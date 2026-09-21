@@ -37,13 +37,24 @@
 
 ---
 
+### 📜 Certifications
+
+<details>
+  <summary><strong>🎓 Microsoft Certified: Teams Administrator Associate (MS-700) — [Click to view certificate]</strong></summary>
+  <br />
+  <p align="center">
+    <a href="[https://learn.microsoft.com/api/credentials/share/en-gb/SoutikBera-6523/66F06CC406BC03A8?sharingId=5C20CBF952936C3F]" target="_blank">
+      <img src="./assets/ms-700-certificate.png" alt="MS-700 Certificate" width="650" />
+    </a>
+    <br />
+    <a href="https://learn.microsoft.com/en-us/users/YOUR-USERNAME/credentials/YOUR-CREDENTIAL-ID">Verify Credential Online ↗</a>
+  </p>
+</details>
+
 ### 🤝 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/soutik-bera-320867213" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/YOUR-TWITTER-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
