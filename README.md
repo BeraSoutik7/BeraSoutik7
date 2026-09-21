@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Soutik Bera 👋
 
-<!--
-**BeraSoutik7/BeraSoutik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Microsoft Teams & Collaboration Administrator** specializing in Enterprise Voice architecture, tenant governance, and infrastructure automation. I build PowerShell tooling and Microsoft Graph workflows to automate tenant lifecycle management and optimize real-time communications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Core Domains
+
+- **Collaboration & Voice:** Microsoft Teams, Direct Routing, Auto Attendants, Call Queues, SIP Gateways, CQD
+- **Cloud Administration:** Microsoft 365, Entra ID (Azure AD), Exchange Online, Intune
+- **Automation & Scripting:** PowerShell (`MicrosoftTeams`, `Microsoft.Graph`), REST APIs, Bash
+- **Monitoring & Operations:** Call Analytics, Voice Trunk Monitoring, Policy Compliance
+
+---
+
+### 📌 What I'm Working On
+
+- ⚡ Writing modular PowerShell tools for Teams user provisioning and policy assignment.
+- 📞 Documenting best practices for multi-tier auto attendant routing and failover designs.
+- 💬 Ask me about **M365 administration**, **Teams telephony**, or **PowerShell automation**.
+
+---
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
