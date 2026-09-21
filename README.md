@@ -23,4 +23,5 @@
 
 ### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- linkedin.com/in/soutik-bera-320867213
+
