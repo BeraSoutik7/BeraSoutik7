@@ -51,6 +51,19 @@
   </p>
 </details>
 
+<details>
+  <summary><strong>🎓 Microsoft Certified: Azure Fundamentals (AZ-900) — [Click to view certificate]</strong></summary>
+  <br />
+  <p align="center">
+    <a href="[https://learn.microsoft.com/api/credentials/share/en-gb/SoutikBera-6523/C7608B6CF1FDB2C8?sharingId=5C20CBF952936C3F]" target="_blank">
+      <img src="./Soutik Bera - AZ 900.png" alt="MS-700 Certificate" width="650" />
+    </a>
+    <br />
+    <a href="https://learn.microsoft.com/api/credentials/share/en-gb/SoutikBera-6523/C7608B6CF1FDB2C8?sharingId=5C20CBF952936C3F">Verify Credential Online ↗</a>
+  </p>
+</details>
+
+
 ### 🤝 Connect With Me
 
 <p align="left">
