@@ -23,7 +23,7 @@
 <div align="center">
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=BeraSoutik7&theme=tokyonight&timezone=Asia/Kolkata" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=BeraSoutik7&theme=tokyonight&timezone=Asia/Kolkata&v=1" alt="GitHub Streak Stats"/>
 
   <br/><br/>
 
