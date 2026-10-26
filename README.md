@@ -25,7 +25,7 @@
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=BeraSoutik7&theme=tokyonight&timezone=Asia/Kolkata" alt="GitHub Streak Stats"/>
 
-  <br/><br/>
+  <br/> <br/>
 
   <!-- GitHub Trophies -->
  
